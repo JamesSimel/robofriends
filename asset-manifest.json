@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/JamesSimel/robofriends.git/static/css/main.10c734ca.css",
-    "main.js": "/JamesSimel/robofriends.git/static/js/main.429da3d9.js",
-    "static/js/787.32032a02.chunk.js": "/JamesSimel/robofriends.git/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.TTF": "/JamesSimel/robofriends.git/static/media/SEGA.8a619f32417a0fe72728.TTF",
+    "main.css": "/JamesSimel/robofriends.git/static/css/main.365f6b7f.css",
+    "main.js": "/JamesSimel/robofriends.git/static/js/main.d37dec39.js",
     "index.html": "/JamesSimel/robofriends.git/index.html",
-    "main.10c734ca.css.map": "/JamesSimel/robofriends.git/static/css/main.10c734ca.css.map",
-    "main.429da3d9.js.map": "/JamesSimel/robofriends.git/static/js/main.429da3d9.js.map",
-    "787.32032a02.chunk.js.map": "/JamesSimel/robofriends.git/static/js/787.32032a02.chunk.js.map"
+    "main.365f6b7f.css.map": "/JamesSimel/robofriends.git/static/css/main.365f6b7f.css.map",
+    "main.d37dec39.js.map": "/JamesSimel/robofriends.git/static/js/main.d37dec39.js.map"
   },
   "entrypoints": [
-    "static/css/main.10c734ca.css",
-    "static/js/main.429da3d9.js"
+    "static/css/main.365f6b7f.css",
+    "static/js/main.d37dec39.js"
   ]
 }
