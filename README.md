@@ -1,7 +1,7 @@
 ## Robo friends App
 # Hello 👋
 ![RoboFriendsApp](robofriends.png)
-In this App used the follow technologies:
+I build this App using the follow technologies:
 1. ReactJs
 2. JsonPlaceholder API
 
